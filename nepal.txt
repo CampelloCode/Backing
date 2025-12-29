@@ -1,0 +1,197 @@
+HTML
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nepal
+  </title>
+</head>
+<body>
+  <div class="header">
+    <h1>Campello News</h1>
+  </div>
+  <section class="color">  
+  </section> 
+  <div class="corpo">  
+    <section class="titulo">
+      <h2>Revolta da geração Z no Nepal</h2>
+    </section>
+    <section class="texto">
+      <h3>Primeiros sinais de crise</h3>
+      <p>No início de setembro de 2025, o governo do Nepal já enfrentava críticas pela instabilidade econômica e pelas acusações de corrupção. A situação se agravou em 4 de setembro, quando as autoridades anunciaram a suspensão de cerca de 26 plataformas digitais, incluindo Facebook, YouTube, WhatsApp e X (antigo Twitter).
+A justificativa oficial foi a de que as empresas não teriam se registrado adequadamente no país, mas para a população — especialmente os jovens — a medida soou como uma clara tentativa de censura.</p>
+    </section>
+      <figure class="img">
+        <img src="https://s2-g1.glbimg.com/tNz5DxB35BLH6xhcgWkabvTRM-M=/0x0:1200x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/e/9WIHjuQvWL7Viwdl7ifA/afp-20250909-73w63cq-v3-midres-topshotnepalpoliticsinternetlawprotest.jpg" class="foto" alt="Singha Durbar em chamas">
+        <figcaption><em>Singha Durbar em chamas</em></figcaption>
+      </figure>
+    
+    <section class="texto">
+      <h3>A mobilização dos jovens</h3>
+      <p>Poucos dias depois, em 8 de setembro de 2025, milhares de jovens, em sua maioria universitários e recém-formados, foram às ruas de Katmandu e de outras grandes cidades. O movimento ganhou o nome de “Revolta da Geração Z”, justamente por ter sido conduzido por uma juventude conectada, que cresceu sob a influência das redes sociais e que, de repente, viu seus canais de expressão bloqueados.
+
+As manifestações começaram de forma pacífica, mas no final do mesmo dia houve confrontos com a polícia, que tentou dispersar a multidão com bombas de gás lacrimogêneo. As cenas de repressão só aumentaram a revolta, atraindo ainda mais pessoas para as ruas nos dias seguintes.</p>
+    </section>
+    <figure class="img">
+      <img src="https://i0.wp.com/apublica.org/wp-content/uploads/2025/09/Capa-Nepal-ja-Onda-bolsonarista-e-tentativa-de-inspirar-novo-8-de-janeiro-diz-especialista.jpg?fit=640%2C427&ssl=1" class="foto" alt="Nova onda de protestos">
+      <figcaption><em>Nova onda de protestos</em></figcaption>
+    </figure>
+    
+    <section class="texto">
+      <h3>Escalada da crise política</h3>
+      <p>A pressão atingiu o auge em 9 de setembro de 2025. Protestos massivos cercaram o parlamento e houve registros de incêndios em prédios governamentais. Nesse mesmo dia, o Primeiro-Ministro K. P. Sharma Oli anunciou sua renúncia, após anos de críticas relacionadas ao autoritarismo, à corrupção e ao favorecimento de aliados políticos.
+
+A queda de Oli ocorreu menos de uma semana após o início dos protestos, um fato raro e que demonstra a força da mobilização popular. No entanto, o dia também ficou marcado pela violência: confrontos deixaram mortos e feridos, gerando grande comoção nacional.</p>
+    </section>
+    <figure class="img">
+      <img src="https://ajn1.com.br/wp-content/uploads/2025/09/nepal-pm-kp-oli-planning-to-flee-to-dubai-as-fresh-gen-z-protests-erupt-sources-090007718-16x9_0.webp" class="foto" alt="Renúncia de ministro">
+      <figcaption><em>Renúncia de ministro</em></figcaption>
+    </figure>
+    
+    <section class="texto">
+      <h3>A transição de poder</h3>
+      <p>Para tentar estabilizar a situação, no 12 de setembro de 2025 o parlamento anunciou a nomeação de Sushila Karki como Primeira-Ministra interina. Karki, ex-juíza da Suprema Corte, assumiu com a missão de conduzir um governo de transição e restaurar a confiança da população.
+Uma de suas primeiras medidas foi anunciar a realização de eleições gerais para 5 de março de 2026, data que deve marcar o próximo grande capítulo da política nepalesa.</p>
+    </section>
+    <figure class="img">
+      <img src="https://correiodobrasil.com.br/img/1740911_big-nepal-3.jpg" class="foto" alt="Karki assumindo o como PM interina">
+      <figcaption><em>Karki assumindo o como PM interina</em></figcaption>
+    </figure>
+    
+    <section class="texto">
+      <h3>Por que a Geração Z está nas ruas</h3>
+      <p>Os protestos não se resumem apenas à suspensão das redes sociais. Os jovens denunciam:</p>
+      <ul>
+        <li>Falta de oportunidades de emprego, apesar do crescimento econômico em setores específicos</li>
+        <li>Desigualdade social, marcada pelo contraste entre líderes políticos ricos e uma juventude desempregada.</li>
+        <li>Corrupção sistêmica, que há anos mina a confiança nas instituições.</li>
+        <li>Nepotismo, com cargos importantes sendo ocupados por parentes e aliados de políticos tradicionais.</li>
+      </ul>
+      <p>Para muitos analistas, a suspensão das redes sociais foi apenas a “gota d’água” em um barril já cheio de frustrações.</p>
+    </section>
+    <figure class="img">
+      <img src="https://conteudo.imguol.com.br/c8/2025/09/13/kathmandu-nepal-9-de-setembro-homem-segiura-bandeira-pirata-em-frente-a-predio-em-chamas-sunil-pradhananadolu---getty-images-1757781948181_300x200.jpg.webp" class="foto" alt="Marcas da revolta">
+      <figcaption><em>Marcas da revolta</em></figcaption>
+    </figure>
+    
+    <section class="texto">
+      <h3>Importância histórica</h3>
+      <p>O que começou em 8 de setembro de 2025 como uma série de protestos estudantis rapidamente se transformou em um movimento nacional que derrubou um primeiro-ministro em questão de dias. Essa rapidez é vista como um marco na história política do Nepal, comparável às grandes mobilizações populares que marcaram a transição democrática no passado.
+
+Agora, os olhares estão voltados para 2026, quando as eleições prometem ser um teste decisivo: será que a energia e a voz da Geração Z conseguirão se transformar em mudanças concretas dentro do sistema político?</p>
+    </section>
+    <figure class="img">
+      <img src="https://s2-oglobo.glbimg.com/LvKNpVwSCoF_e9Lsg3gQ7SD7u3k=/0x0:6230x4153/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2025/J/K/FCg9REQe2aZKIJBxx8qg/112277006-a-demonstrator-shouts-slogans-during-a-protest-outside-the-parliament-in-kathmandu-on-sept.jpg" class="foto" alt="Jovens atuando na rebelião"
+      <figcaption><em>Jovens atuando na rebelião</em></figcaption>
+    </figure>   
+  
+    <section class="texto">
+      <h3>Conclusão</h3>
+      <p>A Revolta da Geração Z no Nepal, iniciada em setembro de 2025, mostrou como uma juventude conectada, organizada e cansada das velhas práticas políticas pode mudar os rumos de um país em poucos dias. O que começou como uma resposta à censura digital rapidamente se transformou em uma luta mais ampla contra a corrupção, o desemprego e a falta de perspectivas.
+
+A renúncia do então Primeiro-Ministro Oli e a nomeação de um governo interino abriram espaço para novas esperanças, mas também para incertezas. Com as eleições previstas para março de 2026, o Nepal vive um momento decisivo: será que a energia das ruas se converterá em transformações duradouras ou ficará restrita ao simbolismo de uma vitória momentânea?
+
+Independentemente da resposta, uma coisa é clara: a Geração Z nepalesa entrou para a história como protagonista de um dos movimentos sociais mais rápidos e impactantes das últimas décadas na região.</p>
+    </section>
+    <figure class="img">
+      <img src="https://s2-g1.glbimg.com/0rUR0_9GV9v3l2geNwOjXN1ggMY=/0x0:5716x3811/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/S/PfzSoTRBGuDN0pCMhLwg/2025-09-08t093614z-83360421-rc2ingajkafv-rtrmadp-3-nepal-protests.jpg" class="foto" alt="Revolta de jovens">
+      <figcaption><em>Revolta de jovens</em></figcaption>
+    </figure>  
+  
+ <!--     <section class="texto">
+      <h3></h3>
+      <p></p>
+    </section>
+    <figure class="img">
+      <img src="" class="foto" alt="">
+      <figcaption><em></em></figcaption>
+    </figure>  -->
+    
+  </div>
+  <section class="colorend">  
+  </section> 
+  <div class="rodape">
+    <h2>Campello News</h2>
+  </div>
+  </body>  
+ 
+
+CSS 
+body{
+  margin: 0px;
+  background-color: rgb(200, 220, 255);
+  font-family: arial;
+}
+.header{
+  padding: 1px 10px 1px 30px;
+  margin: -10px 0 0 0;
+  min-height: 60px;
+  font-size: 22px;
+  color: white;
+  font-family: serif;
+  background-color: rgb(0, 60, 127);
+}
+.color{
+  margin: 0px;
+  padding: 3px;
+  background: linear-gradient(90deg, rgb(0, 60, 127), rgb(0,255,0), rgb(255,0, 0), rgb(0,0,255), rgb(0,255,0), rgb(0, 60, 127), rgb(255,0, 0), rgb(0,0,255));
+}
+.corpo{
+  max-width: 850px;
+  width: 90%;
+  margin: 0 auto;
+  padding 16px;
+}
+.titulo{
+  margin: 20px 0px;
+  padding: 1px;
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+  color: rgb(0,60,127);
+  box-shadow: 7px 7px 10px gray;
+}
+.texto{
+  padding: 0px 15px;
+  background-color: white;
+  border: 4px solid rgb(0,60,127);
+  border-radius: 5px;
+  box-shadow: 7px 7px 10px gray;
+}
+.img{
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 7px 7px 10px gray;
+  width: 450px;
+  height: auto;
+  background-color: white;
+  color: rgb(100,100,100);
+}
+.foto{
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: auto;
+}
+.rodape{
+  text-align: right;
+  padding: 1px 30px 1px 30px;
+  margin: 30px 0 0 0;
+  width: auto;
+  color: white;
+  font-family: serif;
+  background-color: rgb(0, 60, 127);
+}
+.colorend{
+  margin: 20px 0 -30px 0;
+  padding: 3px;
+  background: linear-gradient(90deg, rgb(0, 60, 127), rgb(0,255,0), rgb(255,0, 0), rgb(0,0,255), rgb(0,255,0), rgb(0, 60, 127), rgb(255,0, 0), rgb(0,0,255));
+}
+@media (max-width: 480px) {
+  .header { padding: 12px; min-height: 50px; }
+  .texto { padding: 12px; margin: 14px 0; }
+  .figure-img { max-width: 100%; padding: 8px; }
+  h2 { font-size: 1.2rem; } /* reduz títulos para caber melhor */
+}

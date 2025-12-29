@@ -1,0 +1,134 @@
+HTML
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yakissoba (by Campello)
+  </title>
+</head>
+<body>
+  <div class="head">
+    <h1>Como fazer um yakissoba incrível</h1>
+    <h3>Receita simples e deliciosa com 13 ingredientes, em apenas 9 passos, rende até 6 porções</h3>
+  </div>
+  <hr>
+  <figure>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6bISnG4YcUytkGRR9z70rnBtNPEdfmwAdIQ&s0" width="300" alt="Yakissoba de Frango" class="img">
+    <figcaption><em>Imagem meramente ilustrativa</em></figcaption>
+  </figure>
+  <hr>
+  <div class="preparo">
+    <h4>Lista de Ingredientes</h4>
+    <ul>
+      <li>1kg de frango</li>
+      <li>500g de espaguete</li>
+      <li>½ Cebola</li>
+      <li>1 Cenoura</li>
+      <li>½ Brócolis</li>
+      <li>¼ Repolho</li>
+      <li>¼ Repolho roxo</li>
+      <li>Amido de milho</li>
+      <li>Tempero à gosto</li>
+      <li>Molho shoyo</li>
+      <li>Mel</li>
+      <li>Oyster sauce</li>
+      <li>Óleo de gergelim torrado</li>
+    </ul>
+    <h4>Fase de preparo</h4>
+    <ol>
+      <li>Cortar o frango em iscas pequenas, temperar à gosto e deixar marinar (15-30min.). </li>
+      <li>Em panela separada, cozinhe o macarrão, por 1 minuto a menos do tempo indicado na embalagem do mesmo.</li>
+      <li>Corte os vegetais em tamanhos semelhantes; cenoura em rodelas, floretes de brócolis pequenos, repolho fatiado fino. Se usar brócolis, dê uma pré-branqueada rápida (30–60 s em água fervente) se quiser garantir cor e cozimento uniforme.</li>
+      <li>Selar o frango: aqueça uma wok ou frigideira grande em fogo alto. Adicione 1–2 colheres de óleo. Quando estiver muito quente, coloque o frango em uma camada só (não lotar). Selar até dourar levemente (1–2 min de cada lado/tiras), retirar e reservar.</li>
+      <li>Refogar os vegetais em fogo alto, colocar um fio de óleo, começar pelo mais duro → cenoura (1–2 min), depois brócolis, então cebola, por fim repolho (o repolho cozinha rápido, adicione por último). Não deixe ficar mole demais — o objetivo é manter um pouco de crocância</li>
+      <li>Juntar o frango: volte o frango à panela, mexa 30 s.</li>
+      <li>Para o molho, misture (fora do fogo) shoyu + oyster sauce + mel + água/caldo. Despeje na panela e deixe ferver rapidamente. Prove e ajuste de sal/shoyu.</li>
+      <li>Engrosse o caldo, prepare slurry (1 colher sopa amido + 2 colheres sopa água fria) e vá adicionando aos poucos enquanto mexe, até o molho ficar na consistência que você quer. Não despeje tudo de uma vez. Se ficou grosso demais, corrigir com mais água</li>
+      <li>Finalização, adicione o macarrão já escorrido e misture bem por 1–2 min até o molho envolver o macarrão. Desligue e pingue o óleo de gergelim torrado (1 colher chá) e, se quiser, 1 colher sopa de manteiga para brilho.</li>
+    </ol>
+    <p>Perfeito! Resta apenas servir e aproveitar.</p>
+  </div>
+  <hr>
+    <section class="link">
+      <h4>Confira outras receitas japonesas:</h4>
+      <ul>
+        <li><a href="https://www.tudogostoso.com.br/receita/185289-ramen-lamen-japones.html">Ramen</a></li>
+        <li><a href="https://www.tudogostoso.com.br/receita/75250-kare-comida-japonesa.html">Karê</a></li>
+        <li><a href="https://www.tudogostoso.com.br/receita/174271-niguiri-de-salmao.html">Niguiri de Salmão</a></li>
+        <li><a href="https://www.tudogostoso.com.br/receita/55417-sukiyaki-japones-original.html">Sukiyaki</a></li>
+      </ul>
+  </section>
+  <h6>by Campello receitas</h6>
+</body>
+
+CSS
+.head {
+  font-family: Arial;
+  background-color: lightyellow;
+  border: 3px solid darkred;
+  border-radius: 5px;
+  margin: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;  
+  font-family: sans-serif;
+  background-image: url("https://t4.ftcdn.net/jpg/02/79/37/95/360_F_279379524_AYk6GGaiegqkieb4r0UJJ3akDkuL2aA2.jpg")
+}
+.img {
+  width: 400px;
+  height: auto;
+}
+  h3 {
+    color: darkred;
+  }
+h4 {
+  text-align: center;
+}
+  .link h4 {
+    text-align: left;
+  }
+  h6 {
+    text-align: right;
+  }
+  .preparo { /*CONCERTAR A MARGEM*/
+   margin-right: 35px;
+   margin-left: 35px;
+   background-color: white;
+   border: 3px solid black;
+   border-radius: 5px;
+   padding-right: 30px;
+  }
+  .preparo p {
+    text-align: center;
+  }
+  figure{
+    text-align: center;
+  }
+.link {
+   margin-left: 35px;
+   margin-right: 35px;
+  background-color: lightyellow;
+  border: 3px solid darkred;
+   border-radius: 5px;
+  color: darkred;
+  margin-top: 20px;
+}
+.link h4{
+  color: red;
+  padding-left: 20px;
+  margin-bottom: -5px;
+}
+.link a{
+  color: darkred;
+}
+hr{
+  height: 4px;
+  background-color: lightyellow;
+  border: 0px
+}
